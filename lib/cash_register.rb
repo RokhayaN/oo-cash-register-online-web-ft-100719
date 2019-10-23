@@ -17,4 +17,3 @@ def add_item(item, price, amount=1)
       self.total
     end
   end
-end 
